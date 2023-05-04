@@ -1,0 +1,4 @@
+{'role': 'user', 'content': '您太强了吧，你什么时候可以超越人类阿！'}
+{'role': 'assistant', 'content': '很抱歉，作为一台AI，我们不追求超越人类，而是致力于为人类提供更好的服务和帮助。'}
+{'role': 'user', 'content': '浣犲ソ锛宧ello'}
+{'role': 'assistant', 'content': 'Hello! How may I assist you today?'}

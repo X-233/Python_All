@@ -1,0 +1,19 @@
+professors : [
+        {
+          category: "手术科室",
+          departments: [
+            {
+              department: "骨科",
+              professor: [
+                {
+                  imgUrl: "https://www.wchscu.cn/Uploads/Picture/2022/10/25/63573dcf798ab.png",
+                  name: "陈华",
+                  level: "副主任医师",
+                  introduce: "四川大学华西临床医学院/华西医院，主治医师/助理研究员，从事脊柱外科临床和科研工作；2018 年赴瑞士 Inselspital, University of Bern学习，师从著名脊柱外科医生 Lorin Michael Benneker；2006 年-2014 年，四川大学华西临床医学院/华西医院，临床医学八年制博士。",
+                  professional: "诊治范围：颈肩痛，腰腿痛，颈/腰椎间盘突出，颈/腰椎管狭窄，脊柱创伤，脊柱结核，脊柱肿瘤，骨质疏松压缩性骨折等。 擅长：颈腰椎退变性疾病、脊柱结核、脊柱感染、脊柱畸形等疾病的诊治。"
+                }
+              ]
+            }
+          ]
+        },
+      ]

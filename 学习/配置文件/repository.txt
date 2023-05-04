@@ -1,0 +1,9 @@
+requests
+parsel
+PyExecJS
+pymysql
+redis
+scrapy_redis
+torch
+sklearn
+numpy
