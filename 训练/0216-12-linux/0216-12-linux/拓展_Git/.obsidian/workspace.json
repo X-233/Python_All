@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "03aa6137e4ece561",
+    "type": "split",
+    "children": [
+      {
+        "id": "18d836ff9da2c728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59b78bbcb602483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cba9156c161a97a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4cffe91d6d0cec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "159175584729a1bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe9ef28690fc79e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8904b6d5eab6c909",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5d97e65802d53dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5baf0c8ef1a7c33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "617c8d56c3ebeff7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "342331538e086475",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d83268a077e5fca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19864fe369098ce4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git2.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f59b78bbcb602483",
+  "lastOpenFiles": [
+    "assets/u=3696273500,2096212687&fm=26&gp=0.jpg",
+    "assets/Thumbs.db",
+    "assets/clip_image223.png",
+    "assets/clip_image221.png",
+    "assets/clip_image219.png",
+    "assets/clip_image217.png",
+    "assets/clip_image215.png",
+    "assets/clip_image213.png",
+    "assets/clip_image211.png",
+    "assets/clip_image209.png",
+    "assets/clip_image207.png",
+    "assets/clip_image205.png",
+    "Git.md",
+    "Git2.md"
+  ]
+}
