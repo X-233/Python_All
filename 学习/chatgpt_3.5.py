@@ -1,10 +1,13 @@
 # 1、爬虫速度不要太快，不要给对方服务器造成太大压力
 # 2、爬虫不要伪造VIP，绕过对方身份验证，可以买一个VIP做自动化
 # 3、公民个人信息不要去碰
+import os
+from os.path import exists
 import openai
 
 def openai_1():
-    key = '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'
+    with open('GPT.txt', 'r')as file:
+        key = file.read().strip()
 
     openai.api_key = key
 
@@ -25,10 +28,10 @@ def get_content(l_1=None):
     return content
 
 if __name__ == '__main__':
+    if not exists('GPT.txt'):
+        os.mknod('GPT.txt')
     openai_1()
     list_1 = []
-
-    # 超过5句话停止，并且保存对话内容，自己修改就行（把5改了就行）
     print('空格回车退出')
     while True:
         word = input('I:\t')

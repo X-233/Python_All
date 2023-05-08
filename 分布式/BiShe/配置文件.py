@@ -116,3 +116,7 @@ def get_sign():
 # 关键字
 key_words = ['你好']
 
+# sige = get_sign()
+# print(sige)
+# 'ODs7PDUzNzU3PGk4ZTU0NUBpanI8OWQ6ZjNnazMzNGkzM0A2NWM0LzIvX2IxNF81LzIxYSNnbjJgcjRfMV5gLS1kLTBzcw=='
+# '_02B4Z6wo00f014AgZRQAAIDAf9-a6ugkEYeAAmGAAIRm0a'
